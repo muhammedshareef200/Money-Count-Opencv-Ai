@@ -1,3 +1,12 @@
+Money-Count-Opencv-Ai
+
+
+
+
+
+
+
+
 Detect and Count Coins: Automatically detect and count coins from images or video streams using OpenCV.
 High Accuracy: Utilizes advanced image processing techniques for accurate coin detection and counting.
 Simple and Intuitive Interface: Easy-to-use interface for providing images or video feeds and viewing the results.
