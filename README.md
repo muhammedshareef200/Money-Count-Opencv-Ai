@@ -11,3 +11,9 @@ High Accuracy: Utilizes advanced image processing techniques for accurate coin d
 Supports Multiple Coin Types: Capable of recognizing and counting different types of coins.
 Simple and Intuitive Interface: Easy-to-use interface for providing video feeds and viewing the results.
 Scalable and Extendable: Easily extendable to include additional features or support for more coin types.
+
+## 🎥 Project Presentation
+
+<video src="Project%20Presentation.mp4" controls width="600">
+  Your browser does not support the video tag.
+</video>
