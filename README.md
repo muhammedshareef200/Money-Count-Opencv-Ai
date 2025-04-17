@@ -1,19 +1,51 @@
-Money-Count-Opencv-Ai
-  
-  
-  
-This project is designed to count coins in real-time using a web camera or an external camera. Leveraging the power of OpenCV, this project can detect and count different types of coins with high accuracy.
+<h1 align="center">💰 Money-Count-Opencv-AI 💻</h1>
 
-Features
+<p align="center">
+  <em>A computer vision-based project that counts coins in real time using OpenCV and Python.</em>
+</p>
 
-Real-time Coin Counting: Detect and count coins in real-time using a web camera or an external camera.
-High Accuracy: Utilizes advanced image processing techniques for accurate coin detection and counting.
-Supports Multiple Coin Types: Capable of recognizing and counting different types of coins.
-Simple and Intuitive Interface: Easy-to-use interface for providing video feeds and viewing the results.
-Scalable and Extendable: Easily extendable to include additional features or support for more coin types.
+---
+
+## 🧠 About the Project
+
+This project is designed to count coins in real-time using a web camera or an external camera.  
+Leveraging the power of OpenCV, it detects and counts different types of coins with high accuracy.
+
+---
 
 ## 🎥 Project Presentation
 
 <video src="Project%20Presentation.mp4" controls width="600">
   Your browser does not support the video tag.
 </video>
+
+---
+
+## 🚀 Features
+
+- ✅ **Real-time Coin Counting** using webcam or external camera  
+- 🎯 **High Accuracy** with advanced image processing techniques  
+- 🔄 **Supports Multiple Coin Types** and different sizes  
+- 💡 Easy to integrate and customize
+
+---
+
+## 🛠️ Tech Stack
+
+- 🐍 Python  
+- 📷 OpenCV  
+- 🧠 Computer Vision
+
+---
+
+## 🧪 How It Works
+
+1. **Capture** video input from the camera.  
+2. **Process** each frame to detect contours.  
+3. **Classify** coins based on size/area.  
+4. **Display** count and value in real-time.
+
+---
+
+## 📂 Project Structure
+
