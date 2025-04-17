@@ -16,7 +16,7 @@ Leveraging the power of OpenCV, it detects and counts different types of coins w
 ## 🎥 Project Presentation
 
 <video src="Project%20Presentation.mp4" controls width="600">
-  Your browser does not support the video tag.
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7222140275710648320?compact=1" height="399" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 </video>
 
 ---
@@ -45,7 +45,5 @@ Leveraging the power of OpenCV, it detects and counts different types of coins w
 3. **Classify** coins based on size/area.  
 4. **Display** count and value in real-time.
 
----
 
-## 📂 Project Structure
 
