@@ -13,7 +13,7 @@ Leveraging the power of OpenCV, it detects and counts different types of coins w
 
 ---
 
-## 🎥 Project Presentation
+
 
 ## 🎥 Demo Video
 
