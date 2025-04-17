@@ -15,9 +15,13 @@ Leveraging the power of OpenCV, it detects and counts different types of coins w
 
 ## 🎥 Project Presentation
 
-<video src="Project%20Presentation.mp4" controls width="600">
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7222140275710648320?compact=1" height="399" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
-</video>
+## 🎥 Demo Video
+
+Check out the live demonstration of the project on LinkedIn:  
+🔗 [Watch the LinkedIn video here](https://www.linkedin.com/feed/update/urn:li:ugcPost:7222140275710648320/)
+
+> 🧠 A short project presentation showcasing how coins are detected and counted in real-time using Python and OpenCV to my friends .
+
 
 ---
 
